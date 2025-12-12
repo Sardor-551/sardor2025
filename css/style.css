@@ -1,0 +1,54 @@
+.box{
+    background: hotpink;
+    border: 1px solid #000;
+    height: 100px;
+}
+.bro{
+    background: url(../img/DxRqwcyX0AAnta8.png) no-repeat center/cover;
+    height: 500px;
+    width: 100%;
+}
+.bor{
+    color: white;
+    font-size: 60px;
+  padding-top: 49px;
+  padding-bottom: 350px; 
+}
+.kll-1{
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    padding-top: 44px;
+    padding-bottom: 62px;
+}
+.lil{
+    width: 100%;
+}
+.lil-1{
+    text-align: center;
+    padding-bottom: 30px;
+    
+}
+.lil-2{
+    margin-top: 28px;
+    margin-bottom: 80px;
+}
+.olil-1{
+    display: flex;
+    justify-content: center;
+}
+.olil{
+    padding-bottom: 67px;
+}
+.olili{
+    width: 100%;
+    padding-bottom: 15px;
+}
+.kil-1{
+    background: url(../img/Background\ copy.png) no-repeat center/cover;
+}
+.kil{
+    display: flex;
+    justify-content: center;
+    color: #fff;
+}
